@@ -283,8 +283,8 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--c-primary-red);
 }
 .custom-header .header-top {
-  border-bottom: 1px solid var(--c-dark-grey);
-  padding-bottom: 5px;
+  border-bottom: 1px solid #bababa;
+  padding: 6px 0;
 }
 
 
