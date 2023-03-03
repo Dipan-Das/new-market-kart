@@ -1,0 +1,181 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (min-width: 1920px) and (max-width: 2500px){
+	
+}
+
+@media (min-width: 1600px) and (max-width: 1919.98px){
+
+}
+
+@media (min-width: 1366px) and (max-width: 1599.98px){
+
+}
+
+@media (min-width: 1200px) and (max-width: 1365.98px){
+    .banner .banner-content {padding: 0 50px 0 35px;}
+}
+
+@media (min-width: 1024px) and (max-width: 1200px){
+    .footer-wrap .footer-content img {height: 40px;}
+    p {font-size: 13px;}
+    .footer-wrap .footer-content .footer-links li a {font-size: 13px;}
+    .footer-wrap .footer-content .footer-links li {padding-bottom: 16px;}
+    .footer-wrap .footer-content .footer-app h5 {font-size: 13px;}
+    .footer-wrap .footer-content .footer-app ul li a img {height: 32px;}
+    .footer-wrap .footer-content .demo {margin-top: 18px;}
+    .footer-wrap .footer-content .footer-app {margin-top: 25px;}
+    .footer-wrap .footer-copyright .demo {font-size: 13px;}
+    .footer-wrap .footer-copyright {padding: 0px 0px 28px 15px;margin-top: 45px;}
+    .footer-wrap .footer-content .footer-contact li a {font-size: 13px;}
+    .footer-wrap .footer-content .footer-contact li {padding-bottom: 16px;}
+    .newsletter .newsletter-content {padding: 0px 240px;}
+
+    .banner .banner-content {padding: 0 0px 0 45px;}
+    .banner .banner-content h1 {font-size: 40px;}
+    .banner .banner-content p {font-size: 18px;}
+    .banner .banner-img img {width: 100%;object-fit: cover;}
+    .banner .banner-content .banner-btn .custom-button {font-size: 16px;}
+
+    .shop-category .shop-category-content .shop-category-content-box a {font-size: 16px;}
+    .shop-category .shop-category-content {margin-top: 25px;}
+    .shop-category .shop-category-content .shop-category-content-img img {height: 100px;}
+    .shop-category .shop-category-btn .custom-button {font-size: 16px;}
+    .custom-heading h3 {font-size: 24px;}
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+    .footer-wrap .footer-content img {height: 40px;}
+    p {font-size: 13px;}
+    .footer-wrap .footer-content .footer-links li a {font-size: 13px;}
+    .footer-wrap .footer-content .footer-links li {padding-bottom: 16px;}
+    .footer-wrap .footer-content .footer-app h5 {font-size: 13px;}
+    .footer-wrap .footer-content .footer-app ul li a img {height: 32px;}
+    .footer-wrap .footer-content .demo {margin-top: 18px;}
+    .footer-wrap .footer-content .footer-app {margin-top: 25px;}
+    .footer-wrap .footer-copyright .demo {font-size: 13px;}
+    .footer-wrap .footer-copyright {padding: 0px 0px 28px 15px;margin-top: 45px;}
+    .footer-wrap .footer-content .footer-contact li a {font-size: 13px;}
+    .footer-wrap .footer-content .footer-contact li {padding-bottom: 16px;}
+    .newsletter .newsletter-content {padding: 0px 220px;}
+    
+    .banner .banner-content {padding: 0 0px 0 30px;}
+    .banner .banner-content h1 {font-size: 40px;}
+    .banner .banner-content p {font-size: 18px;}
+    .banner .banner-img img {width: 100%;object-fit: cover;}
+    .banner .banner-content .banner-btn .custom-button {font-size: 16px;}
+
+    .shop-category .shop-category-content .shop-category-content-box a {font-size: 16px;}
+    .shop-category .shop-category-content {margin-top: 25px;}
+    .shop-category .shop-category-content .shop-category-content-img img {height: 100px;}
+    .shop-category .shop-category-btn .custom-button {font-size: 16px;}
+    .custom-heading h3 {font-size: 24px;}
+}
+
+@media only screen and (max-width: 991.98px) {    
+.navbar-toggler { float: left;margin: 0; height: 45px; width: 45px; border-radius: 0;z-index: 1;background-color: var(--c-primary-dark);}
+.navbar-toggler .icon-bar { width: 24px; background: #fff;transition: .5s ease;}
+.navbar-toggler.collapsed .icon-bar:nth-child(2){transform: rotate(0) translateY(0) translateX(0);}
+.navbar-toggler.collapsed .icon-bar:nth-child(3){opacity:1}
+.navbar-toggler.collapsed .icon-bar:nth-child(4){transform:rotate(0) translateY(0) translateX(0);}
+.navbar-toggler .icon-bar:nth-child(2){transform: rotate(-45deg) translateY(5px) translateX(-5px);}
+.navbar-toggler .icon-bar:nth-child(3){opacity: 0}
+.navbar-toggler .icon-bar:nth-child(4){transform:rotate(45deg) translateY(-4px) translateX(-3px);}
+.navbar-header {display: block;}
+
+    .footer-wrap .footer-content img {height: 40px;}
+    p {font-size: 13px;}
+    .footer-wrap .footer-content .footer-links li a {font-size: 14px;}
+    .footer-wrap .footer-content .footer-links li {padding-bottom: 16px;}
+    .footer-wrap .footer-content .footer-app h5 {font-size: 14px;margin-bottom: 8px;}
+    .footer-wrap .footer-content .footer-app ul li a img {height: 32px;}
+    .footer-wrap .footer-content .demo {margin-top: 18px;padding-right: 0px;}
+    .footer-wrap .footer-content .footer-app {margin-top: 25px;}
+    .footer-wrap .footer-copyright .demo {font-size: 13px;}
+    .footer-wrap .footer-copyright {padding: 0px 0px 16px 0px;text-align: center;margin-top: 45px;}
+    .footer-wrap .footer-content .footer-contact li a {font-size: 14px;}
+    .footer-wrap .footer-content .footer-contact li {padding-bottom: 16px;}
+    .newsletter .newsletter-content {padding: 0px 110px;}
+    .footer-wrap .footer-content .footer-links {margin-top: 30px;}
+    .footer-wrap .footer-content  {margin-top: 40px;text-align: center;}
+    .footer-wrap {padding-top: 25px;}
+    .custom-pad {padding: 60px 0;}
+
+    .banner .banner-content {padding: 0 0px 0 30px;}
+    .banner .banner-content h1 {font-size: 30px;}
+    .banner .banner-content p {font-size: 15px;margin-top: 5px;}
+    .banner .banner-img img {width: 100%;object-fit: cover;}
+    .banner .banner-content .banner-btn .custom-button {font-size: 14px;}
+    .banner .banner-content .banner-btn {margin-top: 15px;}
+
+    .shop-category .shop-category-content .shop-category-content-box a {font-size: 16px;}
+    .shop-category .shop-category-content {margin-top: 10px;}
+    .shop-category .shop-category-content .shop-category-content-img img {height: 100px;}
+    .shop-category .shop-category-btn .custom-button {font-size: 16px;}
+    .shop-category .shop-category-content .shop-category-content-box {margin-top: 20px;}
+    .custom-heading h3 {font-size: 22px;}
+
+    .custom-header .header-top .header-top-right ul li {padding: 0 0 0 15px;}
+}
+
+@media (max-width: 767.98px){
+    .custom-pad {padding: 50px 0;}
+    .newsletter .newsletter-content {padding: 0px 30px;}
+    .newsletter .newsletter-content .demo {font-size: 16px;}
+    .footer-wrap {padding-top: 5px;}
+    .newsletter .newsletter-content form .form-control::placeholder {font-size: 12px;}
+    .newsletter .newsletter-content .demo {font-size: 13px;}
+    .footer-wrap .footer-content img {height: 35px;}
+
+    .banner .banner-content {padding: 0 0;text-align: center;margin-top: 20px;}
+    .banner .banner-content p {line-height: 24px;}
+    .banner .banner-wrap {padding: 30px 0;}
+    .banner .banner-img img {width: 85%;}
+
+    .shop-category .custom-heading {text-align: center;}
+    .shop-category .shop-category-btn {display: none;}
+    .shop-category .shop-category-btn.btn-2 {display: block;text-align: center;margin-top: 20px;}
+
+    .custom-header .header-top .header-top-left ul li span {display: none;}
+    .custom-header .header-top .header-top-right ul li a span {display: none;}
+}
+
+@media (max-width: 575.98px){
+    .custom-pad {padding: 40px 0;}
+    .newsletter .newsletter-content {padding: 0px 0px;}
+    .newsletter .newsletter-content form .btn-outline-secondary {font-size: 12px;padding: 0 14px;}
+    .footer-wrap .footer-content .footer-links {column-count: 1;}
+    .footer-wrap .footer-content .footer-links li:nth-child(5) {padding-bottom: 14px;}
+    .footer-wrap .footer-content .footer-links li {padding-bottom: 14px;}
+    .footer-wrap .footer-content .footer-social {margin-top: 20px;}
+    .footer-wrap .footer-content .footer-contact li {padding-bottom: 14px;}
+    .footer-wrap .footer-copyright .demo {font-size: 12px;}
+    .footer-wrap .footer-copyright {margin-top: 35px;}
+    .footer-wrap .footer-content {margin-top: 30px;}
+    .footer-wrap .footer-content .footer-app ul li a img {height: 35px;}
+
+    .banner .banner-img img {width: 90%;}
+    .banner .banner-content p {line-height: 22px;font-size: 14px;}
+    .banner .banner-content .banner-btn .custom-button {font-size: 13px;padding: 8px 16px;}
+    .banner .banner-content h1 {font-size: 27px;}
+    .banner .banner-content {margin-top: 15px;}
+
+    .custom-heading h3 {font-size: 18px;}
+    .shop-category .shop-category-content .shop-category-content-box {margin-top: 15px;}
+    .shop-category .shop-category-content .shop-category-content-box a {margin-top: 4px;}
+    .shop-category .shop-category-content .shop-category-content-img img {height: 130px;}
+
+    .custom-header .header-top .header-top-left {text-align: center;}
+    .custom-header .header-top .header-top-left ul li:last-child {padding: 0;}
+    .custom-header .header-top .header-top-right {text-align: center;margin-top: 12px;}
+    .custom-header .header-top .header-top-right ul li:first-child {padding: 0;}
+    .custom-header .header-top {padding-bottom: 8px;}
+
+}
+
+@media only screen and (max-width: 480.98px) {	
+    
+}
+
+
